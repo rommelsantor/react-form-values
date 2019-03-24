@@ -1,6 +1,6 @@
 # `react-form-values`
 
-This is a custom React hook that simplifies how you can control the state of form fields using a clean and reasonable syntax.
+Custom React hook that simplifies how you can control the state of form fields using a clean and reasonable syntax. Read more at [this Medium article](https://medium.com/@RommelSantor/thinking-in-hooks-react-form-management-742a5e60d24c).
 
 ## Install
 
