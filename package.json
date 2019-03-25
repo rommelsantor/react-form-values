@@ -1,6 +1,6 @@
 {
   "name": "react-form-values",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom React hook that simplifies how you can control the state of form fields using a clean and reasonable syntax",
   "main": "index.js",
   "scripts": {
