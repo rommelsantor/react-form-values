@@ -1,6 +1,6 @@
 {
   "name": "react-form-values",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom React hook that simplifies how you can control the state of form fields using a clean and reasonable syntax",
   "main": "index.js",
   "scripts": {
@@ -27,9 +27,8 @@
   "homepage": "https://github.com/rommelsantor/react-form-values#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
-    "@babel/core": "^7.1.6"
-  },
-  "dependencies": {
+    "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6"
-  }
+  },
+  "dependencies": {}
 }
